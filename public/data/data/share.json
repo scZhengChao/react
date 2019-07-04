@@ -1,0 +1,9 @@
+[
+    {"id":1,"title":"QQ空间","img":"/image/icon/icon-s1.png"},
+    {"id":2,"title":"QQ好友","img":"/image/icon/icon-s2.png"},
+    {"id":3,"title":"微信好友","img":"/image/icon/icon-s3.png"},
+    {"id":4,"title":"新浪微博","img":"/image/icon/icon-s4.png"},
+    {"id":5,"title":"朋友圈","img":"/image/icon/icon-s5.png"},
+    {"id":6,"title":"邮箱","img":"/image/icon/icon-s6.png"},
+    {"id":6,"title":"复制链接","img":"/image/icon/icon-s7.png"}
+]

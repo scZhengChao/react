@@ -1,0 +1,15 @@
+$color:#399 pink red;
+.shopcar{
+    background: nth($color,1);
+    margin-bottom: 60px;
+    .shop_list{
+        margin-top: 5px; background: nth($color,2)
+    };
+    .shop_input{
+        width: 100px;
+        height: 30px;
+        &:hover{
+            background: nth($color,3)
+        }
+    }
+}
